@@ -21,3 +21,4 @@ This means standard (ie command line) input and output.  These are programs whic
 
 ## C Files in todo folder
 -  sum
+-  rational
